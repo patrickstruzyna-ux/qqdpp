@@ -1,0 +1,34 @@
+# Projektanalyse: Dezentraler Messenger
+
+## 1. Ursprüngliche Anforderungen des Projekts
+Das Projekt scheint die Entwicklung eines dezentralen Messengers zu sein, der auf Blockchain-Technologie basiert. Die Hauptanforderungen umfassen:
+- Entwicklung einer React Native App für mobile Geräte
+- Integration mit Ethereum-Wallets zur Benutzerauthentifizierung
+- Dezentrale Nachrichtenübermittlung über Smart Contracts
+- Sichere Kommunikation zwischen Benutzern
+
+## 2. Projektbeschreibung und Funktionalität
+Der "Dezentraler Messenger" ist eine mobile Anwendung, die es Benutzern ermöglicht, über die Ethereum-Blockchain zu kommunizieren. Die Hauptfunktionen sind:
+- Wallet-Verbindung zur Authentifizierung von Benutzern
+- Senden und Empfangen von Nachrichten über Smart Contracts
+- Anzeige von Nachrichten mit Zeitstempeln
+- Dezentrale Architektur ohne zentralen Server
+
+Die App nutzt React Native für die Frontend-Entwicklung und Hardhat für die Smart-Contract-Entwicklung und -Bereitstellung.
+
+## 3. Aktueller Status (erreichte Ziele, Todos)
+Erreichte Ziele:
+- Grundlegende UI-Implementierung mit React Native
+- Wallet-Verbindungsfunktionalität
+- Smart Contract-Entwicklung und lokale Bereitstellungsskripte
+- Testumgebung mit Jest
+
+Todos:
+- Vollständige Integration der Nachrichtenfunktionalität
+- Verbesserung der Benutzeroberfläche
+- Bereitstellung auf Testnetzwerken (Sepolia) und später auf dem Mainnet
+- Implementierung zusätzlicher Sicherheitsfunktionen
+- Optimierung für verschiedene Geräte
+
+## 4. Gesamtfortschritt des Projekts in Prozent
+45
